@@ -1,0 +1,8 @@
+
+Steps to run de App
+
+1) mvn clean install
+
+2) java -jar ./target/ConsoleTwitter-1.0.jar
+
+3) Enjoy
