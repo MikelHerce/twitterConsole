@@ -1,3 +1,6 @@
+The App resolve this requisites in my way :)
+
+
 ConsoleTwitter 
 ========================
 
